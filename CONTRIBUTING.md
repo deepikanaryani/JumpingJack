@@ -6,7 +6,11 @@ However, before doing so, please go through previous issues, as it is possible t
 
 ## Pull Requests
 If you wish to contribute to the repo, here's how you can do that:
+
 1. [Fork the repo](https://github.com/deepikanaryani/JumpingJack).
+
 2. Develop your code changes.
+
 3. Commit your code changes.
+
 4. Raise a [pull request](https://github.com/deepikanaryani/JumpingJack/pulls)
