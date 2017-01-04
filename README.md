@@ -1,12 +1,19 @@
 # Jumping Jack ![jumper](/assets/images/jumper.png)
 
 **Table of Contents**
+
 1. [About](#about)
+
 2. [How does it work?](#how-does-it-work)
+
 3. [Technologies Used](#technologies-used)
+
 4. [Demo](#demo)
+
 5. [Installation](#installation)
+
 6. [Contributing](#contributing)
+
 8. [License](#license)
 
 ## About
@@ -30,9 +37,11 @@ An appropriate death message is displayed.
 Here are a few screenshots of the game in action!
 
 * **Say hello to Jack, our jumper!**
+
 ![Jack](/assets/images/jumper.png)
 
 * **This is the startup screen of our game**
+
 ![Startup](/assets/images/start.png)
 
 ## Installation
@@ -40,10 +49,10 @@ Here are a few screenshots of the game in action!
 2. Replace the path of the .jpeg files [here](/app/Wall.java), [here](/app/Jumper.java) and [here](/app/Game.java)
 3. Run [Main.java](/app/Main.java)
 
-## Contribution
+## Contributing
 Feel free to contribute to this repo. For contribution guidelines, please read [CONTRIBUTING.md](/CONTRIBUTING.md)
 
 ## License
-
+Jumping Jack is licensed under Apache 2.0 License. Please see [LICENSE](/LICENSE) for more information.
 
 
